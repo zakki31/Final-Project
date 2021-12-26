@@ -41,9 +41,11 @@ M. Farhan Fadhillah Handle:
 - Perusahaan.java
 - DBHelper.java
 
+   
+   
+ER:Nasabah
 
-
- Nasabah <|-- Individu
+    Nasabah <|-- Individu
 
     Nasabah <|-- Perusahaan
   
