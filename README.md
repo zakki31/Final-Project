@@ -43,28 +43,28 @@ M. Farhan Fadhillah Handle:
 
 
 
-Nasabah <|-- Individu
+ Nasabah <|-- Individu
 
-  Nasabah <|-- Perusahaan
+    Nasabah <|-- Perusahaan
   
-  Nasabah "1"--o"*" Rekening : has
+    Nasabah "1"--o"*" Rekening : has
   
-  Nasabah o-- NasabahDataModel : Data Modeling
+    Nasabah o-- NasabahDataModel : Data Modeling
   
-  NasabahDataModel <-- NasabahFormController : Data Control
+    NasabahDataModel <-- NasabahFormController : Data Control
   
-  NasabahDataModel --> DBHelper : DB Connection
+    NasabahDataModel --> DBHelper : DB Connection
   
-  NasabahFormController <.. NasabahForm : Form Control
+    NasabahFormController <.. NasabahForm : Form Control
   
-  class Nasabah{
+    class Nasabah{
   
-    <<abstract>>
+      <<abstract>>
     
-    #IntegerProperty nasabahID
+      #IntegerProperty nasabahID
     
-    #StringProperty nama
+      #StringProperty nama
     
-    #StringProperty alamat
+      #StringProperty alamat
     
-  }
+    }
