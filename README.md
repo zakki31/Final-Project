@@ -41,3 +41,30 @@ M. Farhan Fadhillah Handle:
 - Perusahaan.java
 - DBHelper.java
 
+
+
+Nasabah <|-- Individu
+
+  Nasabah <|-- Perusahaan
+  
+  Nasabah "1"--o"*" Rekening : has
+  
+  Nasabah o-- NasabahDataModel : Data Modeling
+  
+  NasabahDataModel <-- NasabahFormController : Data Control
+  
+  NasabahDataModel --> DBHelper : DB Connection
+  
+  NasabahFormController <.. NasabahForm : Form Control
+  
+  class Nasabah{
+  
+    <<abstract>>
+    
+    #IntegerProperty nasabahID
+    
+    #StringProperty nama
+    
+    #StringProperty alamat
+    
+  }
