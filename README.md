@@ -28,15 +28,15 @@ M. Farhan Fadhillah Handle:
 - App.java
 - MainSceneController.java
 - Design MainScene.fxml
-- Design Diagram
 - Error Handling
 
 Ade Putra Maghribi Handle:
 - Nasabah.java
 - NasabahDataModel.java
-- Rekening.java
+- Design Diagram
 
  Handle:
+- Rekening.java
 - Individu.java
 - Perusahaan.java
 - DBHelper.java
