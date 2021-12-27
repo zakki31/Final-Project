@@ -49,10 +49,12 @@ Design
 
 -ER Diagram
 -
-![ER diagram](https://user-images.githubusercontent.com/95565811/147456598-8cc59cf1-140b-466b-aabe-9b911a2ff092.jpg)
+![ER diagram](https://user-images.githubusercontent.com/95565811/147468550-ac0d26b6-39f0-44ef-a0e9-0b768b3c2434.jpg)
+
 
 
 -Class Diagram For JavaFX and Database
 -
-![Javafx diagram](https://user-images.githubusercontent.com/95565811/147462083-a7bc95ea-5176-4437-a7dc-8c30c542dee2.jpg)
+![Javafx diagram (3)](https://user-images.githubusercontent.com/95565811/147468571-2046577d-4556-4e45-b7e1-e2d573e696e4.jpg)
+
 
