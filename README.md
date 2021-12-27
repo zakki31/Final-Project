@@ -18,7 +18,7 @@ Contributor of Kelompok 7:
 
 - M. Farhan Fadhillah - 2017051068
 - Ade Putra Maghribi - 2057051022
-- 
+- Ahmad Muzakki - 2017051037
 
 -------------------------------------------
 
@@ -35,7 +35,7 @@ Ade Putra Maghribi Handle:
 - NasabahDataModel.java
 - Design Diagram
 
- Handle:
+Ahmad Muzakki Handle:
 - Rekening.java
 - Individu.java
 - Perusahaan.java
@@ -43,10 +43,16 @@ Ade Putra Maghribi Handle:
 -------------------------------------------
 Design 
 - Class Diagram
-![Class Diagram](https://user-images.githubusercontent.com/95565811/147456515-430a856d-5a97-43dc-ba24-5c383f66b40d.jpg)
+- 
+![Class Diagram](https://user-images.githubusercontent.com/95565811/147462049-45deba12-13e6-4349-8617-236f777217c8.jpg)
+
 
 -ER Diagram
+-
 ![ER diagram](https://user-images.githubusercontent.com/95565811/147456598-8cc59cf1-140b-466b-aabe-9b911a2ff092.jpg)
 
+
 -Class Diagram For JavaFX and Database
-![Javafx diagram](https://user-images.githubusercontent.com/95565811/147456660-51ea60b9-a5d3-4c40-b7d8-c302bb9686cf.jpg)
+-
+![Javafx diagram](https://user-images.githubusercontent.com/95565811/147462083-a7bc95ea-5176-4437-a7dc-8c30c542dee2.jpg)
+
