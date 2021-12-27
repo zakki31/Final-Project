@@ -1,5 +1,7 @@
 # Final-Project
 
+Mata Kuliah Pemrograman Berorientasi Objek
+
 About this project:
 
 A system that can be used to record customer data transactions at the bank, where there are 2 types of customers, individuals and companies. which each customer can have 1 or more accounts.
