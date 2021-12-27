@@ -40,7 +40,13 @@ Ade Putra Maghribi Handle:
 - Individu.java
 - Perusahaan.java
 - DBHelper.java
+-------------------------------------------
+Design 
+- Class Diagram
+![Class Diagram](https://user-images.githubusercontent.com/95565811/147456515-430a856d-5a97-43dc-ba24-5c383f66b40d.jpg)
 
-   
-   
+-ER Diagram
+![ER diagram](https://user-images.githubusercontent.com/95565811/147456598-8cc59cf1-140b-466b-aabe-9b911a2ff092.jpg)
 
+-Class Diagram For JavaFX and Database
+![Javafx diagram](https://user-images.githubusercontent.com/95565811/147456660-51ea60b9-a5d3-4c40-b7d8-c302bb9686cf.jpg)
