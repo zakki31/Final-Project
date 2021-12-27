@@ -17,7 +17,7 @@ Libraries and Tools of this project:
 Contributor of Kelompok 7:
 
 - M. Farhan Fadhillah - 2017051068
-- 
+- Ade Putra Maghribi - 2057051022
 - 
 
 -------------------------------------------
@@ -31,7 +31,7 @@ M. Farhan Fadhillah Handle:
 - Design Diagram
 - Error Handling
 
- Handle:
+Ade Putra Maghribi Handle:
 - Nasabah.java
 - NasabahDataModel.java
 - Rekening.java
