@@ -50,8 +50,7 @@ Design
 
 - ER Diagram
 
-![ER diagram](https://user-images.githubusercontent.com/95565811/147468550-ac0d26b6-39f0-44ef-a0e9-0b768b3c2434.jpg)
-
+![ER diagram](https://user-images.githubusercontent.com/95565811/147471347-739aa1d3-c65c-40ca-a84e-8538a8c25efd.jpg)
 
 
 - Class Diagram For JavaFX and Database
