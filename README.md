@@ -48,13 +48,13 @@ Design
 ![Class Diagram](https://user-images.githubusercontent.com/95565811/147462049-45deba12-13e6-4349-8617-236f777217c8.jpg)
 
 
--ER Diagram
+- ER Diagram
 
 ![ER diagram](https://user-images.githubusercontent.com/95565811/147468550-ac0d26b6-39f0-44ef-a0e9-0b768b3c2434.jpg)
 
 
 
--Class Diagram For JavaFX and Database
+- Class Diagram For JavaFX and Database
 
 ![Javafx diagram (3)](https://user-images.githubusercontent.com/95565811/147468571-2046577d-4556-4e45-b7e1-e2d573e696e4.jpg)
 
